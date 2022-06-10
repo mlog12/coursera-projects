@@ -1,3 +1,15 @@
 div.highlight {
 	background-color: gray;
 }
+
+h2#chicken {
+	background-color: pink;
+}
+
+h2#beef {
+	background-color: red;
+}
+
+h3#sushi {
+	background-color: yellow;
+}
