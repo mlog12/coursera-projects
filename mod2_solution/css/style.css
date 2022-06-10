@@ -8,6 +8,7 @@ div{
 }
 
 h2#chicken {
+	width: 150px;
 	position: relative;
 	right: 0;
 	background-color: pink;
