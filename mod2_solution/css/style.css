@@ -12,9 +12,10 @@ h2 {
 }
 
 h2#chicken {
+	position: absolute;
 	background-color: pink;
-	right: 0px;
-	width: 10%;
+	right: -50px;
+	width: 50px;
 }
 
 h2#beef {
