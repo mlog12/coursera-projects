@@ -13,7 +13,8 @@ h2 {
 
 h2#chicken {
 	background-color: pink;
-	align-content: right;
+	position: relative;
+	right: 0px;
 	width: 10%;
 }
 
