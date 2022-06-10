@@ -4,7 +4,7 @@
 
 div{
 	background-color: gray;
-
+	position: relative;
 }
 
 h2 {
@@ -13,7 +13,7 @@ h2 {
 
 h2#chicken {
 	background-color: pink;
-	position: relative;
+	position: absolute;
 	right: 0px;
 	width: 10%;
 }
