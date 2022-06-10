@@ -8,6 +8,8 @@ div{
 }
 
 h2#chicken {
+	position: absolute;
+	right: 0;
 	background-color: pink;
 }
 
