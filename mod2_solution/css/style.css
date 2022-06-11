@@ -16,18 +16,10 @@ h2#chicken {
 }
 
 h2#beef {
-	width: 150px;
-	height: 30px;
-	position: absolute;
-	right: 0;
 	background-color: brown;
 }
 
 h2#sushi {
-	width: 150px;
-	height: 30px;
-	position: absolute;
-	right: 0;
 	background-color: palegoldenrod;
 }
 
