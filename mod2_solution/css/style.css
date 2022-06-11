@@ -2,22 +2,36 @@
 	box-sizing: border-box;
 }
 
-div{
+div {
 	background-color: gray;
 	position: relative;
 }
 
 h2#chicken {
 	width: 150px;
-	position: relative;
+	height: 30px;
+	position: absolute;
 	right: 0;
 	background-color: pink;
 }
 
 h2#beef {
+	width: 150px;
+	height: 30px;
+	position: absolute;
+	right: 0;
 	background-color: brown;
 }
 
 h2#sushi {
+	width: 150px;
+	height: 30px;
+	position: absolute;
+	right: 0;
 	background-color: palegoldenrod;
+}
+
+p {
+	position: absolute;
+	top: 40px;
 }
